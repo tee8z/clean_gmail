@@ -29,7 +29,7 @@ A bash script to bulk delete or move emails to trash using the Gmail API.
 
 **With debug output:**
 ```bash
-DEBUG=1 ./clear_emails.sh notifications@raygun.com ya29.a0AfH6SMB...
+DEBUG=1 ./clear_emails.sh notifications@example.com ya29.a0AfH6SMB...
 ```
 
 ## Getting an Access Token
