@@ -1,6 +1,6 @@
 # Gmail Email Cleaner
 
-A bash script to bulk delete or move emails from Gmail using the Gmail API.
+A bash script to bulk delete or move emails to trash using the Gmail API.
 
 ## Features
 
